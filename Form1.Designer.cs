@@ -56,7 +56,6 @@
             this.Grid.Controls.Add(this.label3, 2, 0);
             this.Grid.Controls.Add(this.label2, 1, 0);
             this.Grid.Controls.Add(this.label1, 0, 0);
-            this.Grid.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Grid.Location = new System.Drawing.Point(0, 0);
             this.Grid.Name = "Grid";
             this.Grid.RowCount = 3;
